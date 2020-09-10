@@ -37,7 +37,7 @@ So I can clearly see the content when is displayed on the screen.
 
 ### **Getting Started**
 
-This instructtions will get you a copy of the project up on your local machine.
+This instructions will get you a copy of the project up on your local machine.
 
 ### Installing
 
