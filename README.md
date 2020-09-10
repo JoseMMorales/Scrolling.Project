@@ -16,7 +16,6 @@ So I can identify the section where I currently am.
 As a user,
 I would like to see the headings stopping at same height of the page when searching a new section.
 So I can clearly see the content when is displayed on the screen.
-
 ```
 
 ### **Homepage Screenshot**
