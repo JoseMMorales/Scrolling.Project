@@ -6,11 +6,11 @@ Scrolling project is been designed by a combination of different technologies (<
 ### **User Stories**
 ```
 As a user,
-I would like to navigate through the page when clicking the NavBar menu.
+I would like to navigate through the page when clicking the Navbar menu.
 So I want to see the content changing with a smooth scrolling event.
 
 As a user,
-I would like to see a highlighted section in the NavBar when is clicked.
+I would like to see a highlighted section in the Navbar when is clicked.
 So I can identify the section where I currently am.
 
 As a user,
@@ -37,7 +37,7 @@ So I can clearly see the content when is displayed on the screen.
 
 ### **Getting Started**
 
-This instructions will get you a copy of the project up on your local machine.
+These instructions will get you a copy of the project up on your local machine.
 
 ### Installing
 
