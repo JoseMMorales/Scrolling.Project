@@ -1,7 +1,7 @@
 # Scrolling.Project 
 ![image](https://user-images.githubusercontent.com/43299285/92776983-0dcbd300-f3a0-11ea-8f6e-2ee863ac6e95.png)
 
-Scrolling project is been designed by a combination of different technologies (<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">HTML5</a>, <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3">CSS3</a> and <a href="https://jquery.com/">JQuery</a>). Pretty simple smooth scolling to reach anchor assigned to the certain sections. To make this page responsive, I used  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">the CSS flexbox layout</a>, so the page can be displayed in mobile, tablet and desktop. 
+Scrolling project is been designed by a combination of different technologies (<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">HTML5</a>, <a href="https://developer.mozilla.org/en-US/docs/Archive/CSS3">CSS3</a> and <a href="https://jquery.com/">JQuery</a>). Pretty simple smooth scrolling to reach anchor assigned to the certain sections. To make this page responsive, I used  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">the CSS flexbox layout</a>, so the page can be displayed in mobile, tablet and desktop. 
 
 ### **User Stories**
 ```
